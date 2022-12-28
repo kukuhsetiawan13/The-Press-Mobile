@@ -1,0 +1,538 @@
+{
+  "Posts": [
+    {
+      "id": 1,
+      "title": "Fighting rages in east Ukraine, West eyes more sanctions on Russia",
+      "slug": "Fighting-rages-in-east-Ukraine,-West-eyes-more-sanctions-on-Russia",
+      "content": "Russian forces pounded targets in eastern and southern Ukraine with missiles, drones and artillery, Ukraine's General Staff said on Monday, while millions remained without power in subzero temperatures after further strikes on key infrastructure.",
+      "imgUrl": "https://c.ndtvimg.com/2022-11/343p3bkc_us-calls-emergency-meet-at-g20_625x300_16_November_22.jpg",
+      "authorId": 1,
+      "categoryId": 15,
+      "updatedAt": "2022-12-12T06:44:42.796Z",
+      "createdAt": "2022-12-12T06:44:42.796Z"
+    },
+    {
+      "id": 2,
+      "title": "Queen Elizabeth dies at 96, ending an era for Britain",
+      "slug": "Queen-Elizabeth-dies-at-96,-ending-an-era-for-Britain",
+      "content": "Queen Elizabeth, Britain's longest-reigning monarch, the nation's figurehead and a towering presence on the world stage for seven decades, died peacefully at her home in Scotland on Thursday aged 96.",
+      "imgUrl": "https://www.reuters.com/resizer/6X8mLXmELbg3SjUzgzZvDLmfBw4=/960x0/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ZVIUSUCXTZOZFJKEQBAPPBTTZA.jpg",
+      "authorId": 2,
+      "categoryId": 15,
+      "updatedAt": "2022-12-12T06:44:42.796Z",
+      "createdAt": "2022-12-12T06:44:42.796Z"
+    },
+    {
+      "id": 3,
+      "title": "Germany's Scholz calls for reduction in early retirees",
+      "slug": "Germany's-Scholz-calls-for-reduction-in-early-retirees",
+      "content": "Europe's largest economy needs hundreds of thousands of new workers every year to replace retirees. As well as bringing in more foreign workers, Chancellor Olaf Scholz urged those over 60 to delay leaving the workforce.",
+      "imgUrl": "https://static.dw.com/image/60540669_1006.jpg",
+      "authorId": 3,
+      "categoryId": 1,
+      "updatedAt": "2022-12-12T06:44:42.796Z",
+      "createdAt": "2022-12-12T06:44:42.796Z"
+    },
+    {
+      "id": 4,
+      "title": "Sen. Sinema’s switch to Independent will not impact Democrats’ control of the chamber, representatives say",
+      "slug": "Sen.-Sinema’s-switch-to-Independent-will-not-impact-Democrats’-control-of-the-chamber,-representatives-say",
+      "content": "Arizona Sen. Kyrsten Sinema announced her decision on Friday to leave the Democrats and register as an independent, but many members of Congress have said the switch likely won’t impact the Democrats’ narrow control of the U.S. Senate.",
+      "imgUrl": "https://images.firstpost.com/wp-content/uploads/2022/12/AP22343600118135ff.jpg?impolicy=website&width=640&height=363",
+      "authorId": 4,
+      "categoryId": 7,
+      "updatedAt": "2022-12-12T06:44:42.796Z",
+      "createdAt": "2022-12-12T06:44:42.796Z"
+    },
+    {
+      "id": 5,
+      "title": "Elon Musk relaunches Twitter Blue with higher price for iPhone users",
+      "slug": "Elon-Musk-relaunches-Twitter-Blue-with-higher-price-for-iPhone-users",
+      "content": "Twitter has restarted a service dubbed Twitter Blue, where users can pay a monthly fee for a blue checkmark, along with the ability to edit tweets and upload high quality video. Apple users, however, will be charged more. The company says the revamped service will cost $8 a month on the web, or $11 a month if purchased through an app on iPhones and iPads, where in-app transactions are processed through the company's App Store, which generally levies a 30% commission.",
+      "imgUrl": "https://media.npr.org/assets/img/2022/11/28/ap22313071321747_custom-518f20f94772b080205d9fb1894cadb074e98214-s800-c85.webp",
+      "authorId": 5,
+      "categoryId": 10,
+      "updatedAt": "2022-12-12T06:44:42.796Z",
+      "createdAt": "2022-12-12T06:44:42.796Z"
+    },
+    {
+      "id": 6,
+      "title": "Renewables to overtake coal as world’s top energy source by 2025, IEA says",
+      "slug": "Renewables-to-overtake-coal-as-world’s-top-energy-source-by-2025,-IEA-says",
+      "content": "The world is set to add as much renewable energy in the next five years as it did in the past two decades, as a global energy crisis sparked by the war in Ukraine accelerates growth in renewables such as wind and solar, the International Energy Agency says.",
+      "imgUrl": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA15aFsm.img?w=768&h=512&m=6",
+      "authorId": 6,
+      "categoryId": 12,
+      "updatedAt": "2022-12-12T06:44:42.796Z",
+      "createdAt": "2022-12-12T06:44:42.796Z"
+    },
+    {
+      "id": 7,
+      "title": "Germany's Scholz bets on immigration, more working women to counter labour shortages",
+      "slug": "Germany's-Scholz-bets-on-immigration,-more-working-women-to-counter-labour-shortages",
+      "content": "Chancellor Olaf Scholz said this weekend Germany should attract more foreign workers and make it easier for women and older people to work in order to avoid labour shortages and a crisis in its public pension system in the years ahead.",
+      "imgUrl": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA159kz2.img?w=768&h=512&m=6&x=315&y=184&s=235&d=235",
+      "authorId": 7,
+      "categoryId": 1,
+      "updatedAt": "2022-12-12T06:44:42.796Z",
+      "createdAt": "2022-12-12T06:44:42.796Z"
+    },
+    {
+      "id": 8,
+      "title": "Buffalo supermarket shooter seeks plea deal to avoid death penalty",
+      "slug": "Buffalo-supermarket-shooter-seeks-plea-deal-to-avoid-death-penalty",
+      "content": "The white man who admitted to shooting dead 10 Black people at a western New York grocery store in May would consider pleading guilty to federal charges if prosecutors do not pursue a death sentence, media outlets reported on Friday citing his attorneys.",
+      "imgUrl": "https://www.reuters.com/resizer/t-MhCxQlHX-ntpswZmtuE-7Ip0A=/960x0/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/T7VOVBFQV5NR7KSHG6EANZZRGM.jpg",
+      "authorId": 8,
+      "categoryId": 16,
+      "updatedAt": "2022-12-12T06:44:42.796Z",
+      "createdAt": "2022-12-12T06:44:42.796Z"
+    },
+    {
+      "id": 9,
+      "title": "Property assessments higher, but markets have changed since they were calculated",
+      "slug": "Property-assessments-higher,-but-markets-have-changed-since-they-were-calculated",
+      "content": "British Columbia's property assessment agency is warning homeowners that figures released next month estimating the value of their home will likely be higher than the current market price.",
+      "imgUrl": "https://i.cbc.ca/1.4571489.1661115017!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_780/stock-vancouver-fraserview-housing-prices-houses-real-estate-affordable-homes-vanre-east-van.jpg",
+      "authorId": 9,
+      "categoryId": 13,
+      "updatedAt": "2022-12-12T06:44:42.796Z",
+      "createdAt": "2022-12-12T06:44:42.796Z"
+    },
+    {
+      "id": 10,
+      "title": "Cannabis chemicals may help fight prostate cancer",
+      "slug": "Cannabis-chemicals-may-help-fight-prostate-cancer",
+      "content": " Chemicals in cannabis have been found to stop prostate cancer cells from growing in the laboratory, suggesting that cannabis-based medicines could one day help fight the disease, scientists said Wednesday.",
+      "imgUrl": "https://leafly-cms-production.imgix.net/wp-content/uploads/2017/03/02151756/hardest-strains-to-grow.jpg",
+      "authorId": 10,
+      "categoryId": 8,
+      "updatedAt": "2022-12-12T06:44:42.796Z",
+      "createdAt": "2022-12-12T06:44:42.796Z"
+    },
+    {
+      "id": 11,
+      "title": "After Neymar, Croatia aims to end Messi’s World Cup dream",
+      "slug": "After-Neymar,-Croatia-aims-to-end-Messi’s-World-Cup-dream",
+      "content": "Croatia has already ended Neymar’s World Cup dream. Now it hopes to do the same to Lionel Messi. Croatia, runner-up in 2018, is the next obstacle for Argentina to overcome on Tuesday in the semifinals as Messi aims to win the one major trophy that has eluded him.",
+      "imgUrl": "https://storage.googleapis.com/afs-prod/media/b7de4736df0d4b97b88ff8a71d86327e/1000.webp",
+      "authorId": 11,
+      "categoryId": 9,
+      "updatedAt": "2022-12-12T06:44:42.796Z",
+      "createdAt": "2022-12-12T06:44:42.796Z"
+    },
+    {
+      "id": 12,
+      "title": "New Mexico governor wants free lunch for all students K-12",
+      "slug": "New-Mexico-governor-wants-free-lunch-for-all-students-K-12",
+      "content": "Gov. Michelle Lujan Grisham wants New Mexico to help provide school lunches without charge to all K-12 students across the state. Lujan Grisham spokeswoman Nora Meyers Sackett confirmed Tuesday that the governor will pursue legislation when lawmakers meet in January 2023 to ensure that every student has access to free and nutritious school meals by covering the cost of breakfast and lunch for students that don’t already qualify for free or reduced-price meals.",
+      "imgUrl": "https://storage.googleapis.com/afs-prod/media/1549faafc3a24d9bad6f35b6e874ea8e/1000.webp",
+      "authorId": 12,
+      "categoryId": 2,
+      "updatedAt": "2022-12-12T06:44:42.796Z",
+      "createdAt": "2022-12-12T06:44:42.796Z"
+    },
+    {
+      "id": 13,
+      "title": "Multicultural food festival takes place in Pittsburgh",
+      "slug": "Multicultural-food-festival-takes-place-in-Pittsburgh",
+      "content": "A multicultural food festival wrapped up in Pittsburgh Sunday evening. Volunteers prepared and served authentic dishes from cultures around the world, including Vietnamese spring rolls, Haitian patties, and Korean kimchi. The event was thrown to celebrate the city's culturally diverse community.",
+      "imgUrl": "http://www.mckeesportinternationalvillage.com/images/pic04.jpg",
+      "authorId": 13,
+      "categoryId": 11,
+      "updatedAt": "2022-12-12T06:44:42.796Z",
+      "createdAt": "2022-12-12T06:44:42.796Z"
+    },
+    {
+      "id": 14,
+      "title": "Tourists not affected by Indonesia’s new ban on sex outside marriage, Bali governor says",
+      "slug": "Tourists-not-affected-by-Indonesia’s-new-ban-on-sex-outside-marriage,-Bali-governor-says",
+      "content": "Visitors to Bali will not be put at risk by Indonesia’s newly ratified criminal code, the island’s governor said, dismissing concerns that revised laws which include articles criminalising sex outside marriage may scare away tourists from its shores.",
+      "imgUrl": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA15aIa8.img?w=768&h=432&m=6",
+      "authorId": 14,
+      "categoryId": 14,
+      "updatedAt": "2022-12-12T06:44:42.796Z",
+      "createdAt": "2022-12-12T06:44:42.796Z"
+    },
+    {
+      "id": 15,
+      "title": "Microsoft buys near 4% stake in London Stock Exchange as part of 10-year cloud deal",
+      "slug": "Microsoft-buys-near-4%-stake-in-London-Stock-Exchange-as-part-of-10-year-cloud-deal",
+      "content": "U.S. tech giant Microsoft on Monday announced a 10-year partnership with the London Stock Exchange Group and took a near 4% stake in the U.K. bourse operator.",
+      "imgUrl": "https://image.cnbcfm.com/api/v1/image/106933366-1629935683698-gettyimages-1230794251-TSMSoft1.jpeg?v=1670830216&w=740&h=416&ffmt=webp&vtcrop=y",
+      "authorId": 15,
+      "categoryId": 4,
+      "updatedAt": "2022-12-12T06:44:42.796Z",
+      "createdAt": "2022-12-12T06:44:42.796Z"
+    },
+    {
+      "id": 16,
+      "title": "Netflix’s ‘Harry & Meghan’ Shows the Gen Z-ification of the Royal Couple",
+      "slug": "Netflix’s-‘Harry-&-Meghan’-Shows-the-Gen-Z-ification-of-the-Royal-Couple",
+      "content": "'They are like two high schoolers in love,' my flatmate says, half an hour into the first episode of Harry & Meghan, Netflix’s six-part docuseries on the royal couple that premiered on Dec. 8. The streaming giant cheekily dubbed the launch as a “global event,” and, for all those who mocked its gall, perhaps it’s telling that mere minutes after the series released, Netflix reportedly crashed (?!) from too much traffic.",
+      "imgUrl": "https://s.yimg.com/ny/api/res/1.2/RiFIJghAogY2J1ybQj46Zg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTcwNTtoPTM5NjtjZj13ZWJw/https://media.zenfs.com/en/thedailybeast.com/846115b62e03cc12db734da270e6457a",
+      "authorId": 16,
+      "categoryId": 3,
+      "updatedAt": "2022-12-12T06:44:42.796Z",
+      "createdAt": "2022-12-12T06:44:42.796Z"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name": "Economy",
+      "updatedAt": "2022-12-12T06:44:42.796Z",
+      "createdAt": "2022-12-12T06:44:42.796Z"
+    },
+    {
+      "id": 2,
+      "name": "Education",
+      "updatedAt": "2022-12-12T06:44:42.796Z",
+      "createdAt": "2022-12-12T06:44:42.796Z"
+    },
+    {
+      "id": 3,
+      "name": "Entertainment",
+      "updatedAt": "2022-12-12T06:44:42.796Z",
+      "createdAt": "2022-12-12T06:44:42.796Z"
+    },
+    {
+      "id": 4,
+      "name": "Finance",
+      "updatedAt": "2022-12-12T06:44:42.796Z",
+      "createdAt": "2022-12-12T06:44:42.796Z"
+    },
+    {
+      "id": 5,
+      "name": "General",
+      "updatedAt": "2022-12-12T06:44:42.796Z",
+      "createdAt": "2022-12-12T06:44:42.796Z"
+    },
+    {
+      "id": 6,
+      "name": "Health",
+      "updatedAt": "2022-12-12T06:44:42.796Z",
+      "createdAt": "2022-12-12T06:44:42.796Z"
+    },
+    {
+      "id": 7,
+      "name": "Politics",
+      "updatedAt": "2022-12-12T06:44:42.796Z",
+      "createdAt": "2022-12-12T06:44:42.796Z"
+    },
+    {
+      "id": 8,
+      "name": "Science",
+      "updatedAt": "2022-12-12T06:44:42.796Z",
+      "createdAt": "2022-12-12T06:44:42.796Z"
+    },
+    {
+      "id": 9,
+      "name": "Sports",
+      "updatedAt": "2022-12-12T06:44:42.796Z",
+      "createdAt": "2022-12-12T06:44:42.796Z"
+    },
+    {
+      "id": 10,
+      "name": "Technology",
+      "updatedAt": "2022-12-12T06:44:42.796Z",
+      "createdAt": "2022-12-12T06:44:42.796Z"
+    },
+    {
+      "id": 11,
+      "name": "Food and Drinks",
+      "updatedAt": "2022-12-12T06:44:42.796Z",
+      "createdAt": "2022-12-12T06:44:42.796Z"
+    },
+    {
+      "id": 12,
+      "name": "Energy",
+      "updatedAt": "2022-12-12T06:44:42.796Z",
+      "createdAt": "2022-12-12T06:44:42.796Z"
+    },
+    {
+      "id": 13,
+      "name": "Property",
+      "updatedAt": "2022-12-12T06:44:42.796Z",
+      "createdAt": "2022-12-12T06:44:42.796Z"
+    },
+    {
+      "id": 14,
+      "name": "Tourism",
+      "updatedAt": "2022-12-12T06:44:42.796Z",
+      "createdAt": "2022-12-12T06:44:42.796Z"
+    },
+    {
+      "id": 15,
+      "name": "World",
+      "updatedAt": "2022-12-12T06:44:42.796Z",
+      "createdAt": "2022-12-12T06:44:42.796Z"
+    },
+    {
+      "id": 16,
+      "name": "Crime",
+      "updatedAt": "2022-12-12T06:44:42.796Z",
+      "createdAt": "2022-12-12T06:44:42.796Z"
+    }
+  ],
+  "Tags": [
+    {
+      "id": 1,
+      "name": "Ukraine",
+      "postId": 1,
+      "updatedAt": "2022-12-12T06:44:42.796Z",
+      "createdAt": "2022-12-12T06:44:42.796Z"
+    },
+    {
+      "id": 2,
+      "name": "Royal Family",
+      "postId": 2,
+      "updatedAt": "2022-12-12T06:44:42.796Z",
+      "createdAt": "2022-12-12T06:44:42.796Z"
+    },
+    {
+      "id": 3,
+      "name": "Germany",
+      "postId": 3,
+      "updatedAt": "2022-12-12T06:44:42.796Z",
+      "createdAt": "2022-12-12T06:44:42.796Z"
+    },
+    {
+      "id": 4,
+      "name": "Democrats",
+      "postId": 4,
+      "updatedAt": "2022-12-12T06:44:42.796Z",
+      "createdAt": "2022-12-12T06:44:42.796Z"
+    },
+    {
+      "id": 5,
+      "name": "Elon Musk",
+      "postId": 5,
+      "updatedAt": "2022-12-12T06:44:42.796Z",
+      "createdAt": "2022-12-12T06:44:42.796Z"
+    },
+    {
+      "id": 6,
+      "name": "Coal",
+      "postId": 6,
+      "updatedAt": "2022-12-12T06:44:42.796Z",
+      "createdAt": "2022-12-12T06:44:42.796Z"
+    },
+    {
+      "id": 7,
+      "name": "Immigration",
+      "postId": 7,
+      "updatedAt": "2022-12-12T06:44:42.796Z",
+      "createdAt": "2022-12-12T06:44:42.796Z"
+    },
+    {
+      "id": 8,
+      "name": "Mass shooter",
+      "postId": 8,
+      "updatedAt": "2022-12-12T06:44:42.796Z",
+      "createdAt": "2022-12-12T06:44:42.796Z"
+    },
+    {
+      "id": 9,
+      "name": "Housing",
+      "postId": 9,
+      "updatedAt": "2022-12-12T06:44:42.796Z",
+      "createdAt": "2022-12-12T06:44:42.796Z"
+    },
+    {
+      "id": 10,
+      "name": "Cannabis",
+      "postId": 10,
+      "updatedAt": "2022-12-12T06:44:42.796Z",
+      "createdAt": "2022-12-12T06:44:42.796Z"
+    },
+    {
+      "id": 11,
+      "name": "Lionel Messi",
+      "postId": 11,
+      "updatedAt": "2022-12-12T06:44:42.796Z",
+      "createdAt": "2022-12-12T06:44:42.796Z"
+    },
+    {
+      "id": 12,
+      "name": "School",
+      "postId": 12,
+      "updatedAt": "2022-12-12T06:44:42.796Z",
+      "createdAt": "2022-12-12T06:44:42.796Z"
+    },
+    {
+      "id": 13,
+      "name": "Pittsburgh",
+      "postId": 13,
+      "updatedAt": "2022-12-12T06:44:42.796Z",
+      "createdAt": "2022-12-12T06:44:42.796Z"
+    },
+    {
+      "id": 14,
+      "name": "Bali",
+      "postId": 14,
+      "updatedAt": "2022-12-12T06:44:42.796Z",
+      "createdAt": "2022-12-12T06:44:42.796Z"
+    },
+    {
+      "id": 15,
+      "name": "Microsoft",
+      "postId": 15,
+      "updatedAt": "2022-12-12T06:44:42.796Z",
+      "createdAt": "2022-12-12T06:44:42.796Z"
+    },
+    {
+      "id": 16,
+      "name": "Harry & Meghan",
+      "postId": 16,
+      "updatedAt": "2022-12-12T06:44:42.796Z",
+      "createdAt": "2022-12-12T06:44:42.796Z"
+    }
+  ],
+  "Authors": [
+    {
+      "id": 1,
+      "username": "Nick Sarkov",
+      "email": "nick@mail.com",
+      "password": "nick@",
+      "role": "",
+      "phoneNumber": "12345",
+      "address": "HQ"
+    },
+    {
+      "id": 2,
+      "username": "Michael Holden and Russell Cheyne",
+      "email": "michael@mail.com",
+      "password": "michael",
+      "role": "",
+      "phoneNumber": "12345",
+      "address": "HQ"
+    },
+    {
+      "id": 3,
+      "username": "Deutsche Welle",
+      "email": "deutsche@mail.com",
+      "password": "deutsche",
+      "role": "",
+      "phoneNumber": "12345",
+      "address": "HQ"
+    },
+    {
+      "id": 4,
+      "username": "The Associated Press",
+      "email": "the@mail.com",
+      "password": "the@@",
+      "role": "",
+      "phoneNumber": "12345",
+      "address": "HQ"
+    },
+    {
+      "id": 5,
+      "username": "Bobby Allyn",
+      "email": "bobby@mail.com",
+      "password": "bobby",
+      "role": "",
+      "phoneNumber": "12345",
+      "address": "HQ"
+    },
+    {
+      "id": 6,
+      "username": "Rachel Pannet",
+      "email": "rachel@Mail.com",
+      "password": "rachel",
+      "role": "",
+      "phoneNumber": "12345",
+      "address": "HQ"
+    },
+    {
+      "id": 7,
+      "username": "Andreas Rinke",
+      "email": "andreas@mail.com",
+      "password": "andreas",
+      "role": "",
+      "phoneNumber": "12345",
+      "address": "HQ"
+    },
+    {
+      "id": 8,
+      "username": "Tyler Clifford",
+      "email": "tyler@mail.com",
+      "password": "tyler",
+      "role": "",
+      "phoneNumber": "12345",
+      "address": "HQ"
+    },
+    {
+      "id": 9,
+      "username": "Gian-Paolo Mendoza",
+      "email": "gian@mail.com",
+      "password": "gian@",
+      "role": "",
+      "phoneNumber": "12345",
+      "address": "HQ"
+    },
+    {
+      "id": 10,
+      "username": "Ben Hirschler",
+      "email": "ben@mail.com",
+      "password": "ben@@",
+      "role": "",
+      "phoneNumber": "12345",
+      "address": "HQ"
+    },
+    {
+      "id": 11,
+      "username": "James Robson",
+      "email": "james@mail.com",
+      "password": "james",
+      "role": "",
+      "phoneNumber": "12345",
+      "address": "HQ"
+    },
+    {
+      "id": 12,
+      "username": "Morgan Lee",
+      "email": "morgan@mail.com",
+      "password": "morgan",
+      "role": "",
+      "phoneNumber": "12345",
+      "address": "HQ"
+    },
+    {
+      "id": 13,
+      "username": "Garett Behanna",
+      "email": "garett@mail.com",
+      "password": "garett",
+      "role": "",
+      "phoneNumber": "12345",
+      "address": "HQ"
+    },
+    {
+      "id": 14,
+      "username": "Willy Kurniawan",
+      "email": "willy@mail.com",
+      "password": "willy",
+      "role": "",
+      "phoneNumber": "12345",
+      "address": "HQ"
+    },
+    {
+      "id": 15,
+      "username": "Matt Clinch",
+      "email": "matt@mail.com",
+      "password": "matt@",
+      "role": "",
+      "phoneNumber": "12345",
+      "address": "HQ"
+    },
+    {
+      "id": 16,
+      "username": "Darshita Goyal",
+      "email": "darshita@mail.com",
+      "password": "darshita",
+      "role": "",
+      "phoneNumber": "12345",
+      "address": "HQ"
+    }
+  ]
+}

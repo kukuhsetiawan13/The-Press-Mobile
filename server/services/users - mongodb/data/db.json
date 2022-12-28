@@ -1,0 +1,154 @@
+[
+    {
+      "id": 1,
+      "username": "Nick Sarkov",
+      "email": "nick@mail.com",
+      "password": "nick@",
+      "role": "",
+      "phoneNumber": "12345",
+      "address": "HQ"
+    },
+    {
+      "id": 2,
+      "username": "Michael Holden and Russell Cheyne",
+      "email": "michael@mail.com",
+      "password": "michael",
+      "role": "",
+      "phoneNumber": "12345",
+      "address": "HQ"
+    },
+    {
+      "id": 3,
+      "username": "Deutsche Welle",
+      "email": "deutsche@mail.com",
+      "password": "deutsche",
+      "role": "",
+      "phoneNumber": "12345",
+      "address": "HQ"
+    },
+    {
+      "id": 4,
+      "username": "The Associated Press",
+      "email": "the@mail.com",
+      "password": "the@@",
+      "role": "",
+      "phoneNumber": "12345",
+      "address": "HQ"
+    },
+    {
+      "id": 5,
+      "username": "Bobby Allyn",
+      "email": "bobby@mail.com",
+      "password": "bobby",
+      "role": "",
+      "phoneNumber": "12345",
+      "address": "HQ"
+    },
+    {
+      "id": 6,
+      "username": "Rachel Pannet",
+      "email": "rachel@Mail.com",
+      "password": "rachel",
+      "role": "",
+      "phoneNumber": "12345",
+      "address": "HQ"
+    },
+    {
+      "id": 7,
+      "username": "Andreas Rinke",
+      "email": "andreas@mail.com",
+      "password": "andreas",
+      "role": "",
+      "phoneNumber": "12345",
+      "address": "HQ"
+    },
+    {
+      "id": 8,
+      "username": "Tyler Clifford",
+      "email": "tyler@mail.com",
+      "password": "tyler",
+      "role": "",
+      "phoneNumber": "12345",
+      "address": "HQ"
+    },
+    {
+      "id": 9,
+      "username": "Gian-Paolo Mendoza",
+      "email": "gian@mail.com",
+      "password": "gian@",
+      "role": "",
+      "phoneNumber": "12345",
+      "address": "HQ"
+    },
+    {
+      "id": 10,
+      "username": "Ben Hirschler",
+      "email": "ben@mail.com",
+      "password": "ben@@",
+      "role": "",
+      "phoneNumber": "12345",
+      "address": "HQ"
+    },
+    {
+      "id": 11,
+      "username": "James Robson",
+      "email": "james@mail.com",
+      "password": "james",
+      "role": "",
+      "phoneNumber": "12345",
+      "address": "HQ"
+    },
+    {
+      "id": 12,
+      "username": "Morgan Lee",
+      "email": "morgan@mail.com",
+      "password": "morgan",
+      "role": "",
+      "phoneNumber": "12345",
+      "address": "HQ"
+    },
+    {
+      "id": 13,
+      "username": "Garett Behanna",
+      "email": "garett@mail.com",
+      "password": "garett",
+      "role": "",
+      "phoneNumber": "12345",
+      "address": "HQ"
+    },
+    {
+      "id": 14,
+      "username": "Willy Kurniawan",
+      "email": "willy@mail.com",
+      "password": "willy",
+      "role": "",
+      "phoneNumber": "12345",
+      "address": "HQ"
+    },
+    {
+      "id": 15,
+      "username": "Matt Clinch",
+      "email": "matt@mail.com",
+      "password": "matt@",
+      "role": "",
+      "phoneNumber": "12345",
+      "address": "HQ"
+    },
+    {
+      "id": 16,
+      "username": "Darshita Goyal",
+      "email": "darshita@mail.com",
+      "password": "darshita",
+      "role": "",
+      "phoneNumber": "12345",
+      "address": "HQ"
+    },
+    {
+      "username": "test5",
+      "email": "test5@mail.com",
+      "password": "test",
+      "phoneNumber": "test5",
+      "address": "test5",
+      "id": 17
+    }
+]

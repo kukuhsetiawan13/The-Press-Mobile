@@ -1,0 +1,155 @@
+[
+    {
+        "_id": "63a45ed07e187176a2d3fa9c",
+        "id": 1,
+        "username": "Nick Sarkov",
+        "email": "nick@mail.com",
+        "role": "Admin",
+        "phoneNumber": "12345",
+        "address": "HQ"
+    },
+    {
+        "_id": "63a45ed07e187176a2d3fa9d",
+        "id": 2,
+        "username": "Michael Holden and Russell Cheyne",
+        "email": "michael@mail.com",
+        "role": "Admin",
+        "phoneNumber": "12345",
+        "address": "HQ"
+    },
+    {
+        "_id": "63a45ed07e187176a2d3fa9e",
+        "id": 3,
+        "username": "Deutsche Welle",
+        "email": "deutsche@mail.com",
+        "role": "Admin",
+        "phoneNumber": "12345",
+        "address": "HQ"
+    },
+    {
+        "_id": "63a45ed07e187176a2d3fa9f",
+        "id": 4,
+        "username": "The Associated Press",
+        "email": "the@mail.com",
+        "role": "Admin",
+        "phoneNumber": "12345",
+        "address": "HQ"
+    },
+    {
+        "_id": "63a45ed07e187176a2d3faa0",
+        "id": 5,
+        "username": "Bobby Allyn",
+        "email": "bobby@mail.com",
+        "role": "Admin",
+        "phoneNumber": "12345",
+        "address": "HQ"
+    },
+    {
+        "_id": "63a45ed07e187176a2d3faa1",
+        "id": 6,
+        "username": "Rachel Pannet",
+        "email": "rachel@Mail.com",
+        "role": "Admin",
+        "phoneNumber": "12345",
+        "address": "HQ"
+    },
+    {
+        "_id": "63a45ed07e187176a2d3faa2",
+        "id": 7,
+        "username": "Andreas Rinke",
+        "email": "andreas@mail.com",
+        "role": "Admin",
+        "phoneNumber": "12345",
+        "address": "HQ"
+    },
+    {
+        "_id": "63a45ed07e187176a2d3faa3",
+        "id": 8,
+        "username": "Tyler Clifford",
+        "email": "tyler@mail.com",
+        "role": "Admin",
+        "phoneNumber": "12345",
+        "address": "HQ"
+    },
+    {
+        "_id": "63a45ed07e187176a2d3faa4",
+        "id": 9,
+        "username": "Gian-Paolo Mendoza",
+        "email": "gian@mail.com",
+        "role": "Admin",
+        "phoneNumber": "12345",
+        "address": "HQ"
+    },
+    {
+        "_id": "63a45ed07e187176a2d3faa5",
+        "id": 10,
+        "username": "Ben Hirschler",
+        "email": "ben@mail.com",
+        "role": "Admin",
+        "phoneNumber": "12345",
+        "address": "HQ"
+    },
+    {
+        "_id": "63a45ed07e187176a2d3faa6",
+        "id": 11,
+        "username": "James Robson",
+        "email": "james@mail.com",
+        "role": "Admin",
+        "phoneNumber": "12345",
+        "address": "HQ"
+    },
+    {
+        "_id": "63a45ed07e187176a2d3faa7",
+        "id": 12,
+        "username": "Morgan Lee",
+        "email": "morgan@mail.com",
+        "role": "Admin",
+        "phoneNumber": "12345",
+        "address": "HQ"
+    },
+    {
+        "_id": "63a45ed07e187176a2d3faa8",
+        "id": 13,
+        "username": "Garett Behanna",
+        "email": "garett@mail.com",
+        "role": "Admin",
+        "phoneNumber": "12345",
+        "address": "HQ"
+    },
+    {
+        "_id": "63a45ed07e187176a2d3faa9",
+        "id": 14,
+        "username": "Willy Kurniawan",
+        "email": "willy@mail.com",
+        "role": "Admin",
+        "phoneNumber": "12345",
+        "address": "HQ"
+    },
+    {
+        "_id": "63a45ed07e187176a2d3faaa",
+        "id": 15,
+        "username": "Matt Clinch",
+        "email": "matt@mail.com",
+        "role": "Admin",
+        "phoneNumber": "12345",
+        "address": "HQ"
+    },
+    {
+        "_id": "63a45ed07e187176a2d3faab",
+        "id": 16,
+        "username": "Darshita Goyal",
+        "email": "darshita@mail.com",
+        "role": "Admin",
+        "phoneNumber": "12345",
+        "address": "HQ"
+    },
+    {
+        "_id": "63a45ed07e187176a2d3faac",
+        "username": "test5",
+        "email": "test5@mail.com",
+        "phoneNumber": "test5",
+        "address": "test5",
+        "id": 17,
+        "role": "Admin"
+    }
+]
